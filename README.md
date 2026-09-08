@@ -9,4 +9,5 @@ Small, dependency-free Python projects that run in the terminal.
 - `tic_tac_toe.py` - Play two-player Tic-Tac-Toe.
 - `rock_paper_scissors.py` - Challenge the computer in a classic match.
 - `number_guessing_game.py` - Guess the hidden number before your attempts run out.
+- `number_guessing_game.py` - Guess a secret number across three difficulty levels.
 - `stopwatch.py` - Use a stopwatch or countdown timer.
